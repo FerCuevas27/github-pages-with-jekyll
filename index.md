@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Fernando Cuevas"
+subtitle: "Página Personal"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Esta es mi página personal
