@@ -3,8 +3,8 @@ title: Portafolio de Proyectos
 author: Fernando Cuevas
 email: luisfernandocuevas@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-Ingeniería Mecatrónica
-Facultad de Ingeniería, UNAM
+  Ingeniería Mecatrónica
+  Facultad de Ingeniería, UNAM
 
 # social links
 twitter_username: Fer_Cuevas27 # DO NOT include the @ character, or else the build will fail!
